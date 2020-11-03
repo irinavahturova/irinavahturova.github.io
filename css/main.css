@@ -1,0 +1,49 @@
+body {
+    font-size: 2em; 
+}
+
+header {
+    margin-top: 15px;    
+}
+
+h1,span {
+    color: red;
+}
+
+.blue {
+    color: #ffffff;
+    background-color: blue;
+    width: 200px;
+    margin-bottom: 200px;
+}
+
+h2 {
+    color: #ffffff;
+    background-color:green; 
+    padding: 10px;
+}
+
+.bigheader {
+    padding: 90px;
+}
+
+.skill_1 {
+    padding-left: 200px;
+}
+
+input,button {
+    font-size: 1em;
+}
+
+ul {
+    font-size: 2em;
+    line-height: 70px;
+    margin-left: 50px;
+}
+li {
+    border: 3px solid;
+}
+
+a {
+    color: blue;
+}
