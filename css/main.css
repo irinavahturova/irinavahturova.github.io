@@ -40,7 +40,7 @@ color: #fff;
 }
 
 .title {
-  width: 560px;  
+  width: 546px;  
   font-size: 37px;
   line-height: 1.3em;  
 }
@@ -68,11 +68,6 @@ color: #fff;
 
 .btn:hover {
 	background: #d9860e;
-}
-
-.bags {
-  margin-top: 20px;
-  margin-bottom: 48px;
 }
 
 .wait {
